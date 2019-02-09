@@ -21,3 +21,9 @@ body {
 .pagination {
     margin-bottom: 30px;
 }
+
+    .box { 
+  padding-top: 250px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 500px;
