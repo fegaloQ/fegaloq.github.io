@@ -66,6 +66,32 @@
 	  display: table;
 	}
 
+	html {
+  font-family: 'helvetica neue', helvetica, arial, sans-serif;
+}
+
+
+/* added to control font controling in Pathian duh dan dan table */
+thead th, tfoot th {
+  font-family: 'Rock Salt', cursive;
+}
+
+th {
+  letter-spacing: 2px;
+}
+
+td {
+  letter-spacing: 1px;
+}
+
+tbody td {
+  text-align: center;
+}
+
+tfoot th {
+  text-align: right;
+}
+
 /* these <a> tag definition I got it from https://www.w3schools.com/html/html_links.asp q230219 */
 a:link {
   color: green; 
