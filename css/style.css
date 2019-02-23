@@ -66,12 +66,10 @@
 	  display: table;
 	}
 
-	html {
-  font-family: 'helvetica neue', helvetica, arial, sans-serif;
-}
-
 
 /* added to control font controling in Pathian duh dan dan table */
+
+
 thead th, tfoot th {
   font-family: 'Rock Salt', cursive;
 }
