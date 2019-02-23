@@ -68,6 +68,9 @@
 
 
 /* added to control font controling in Pathian duh dan dan table */
+	html {
+  font-family: 'helvetica neue', helvetica, arial, sans-serif;
+}
 
 
 thead th, tfoot th {
