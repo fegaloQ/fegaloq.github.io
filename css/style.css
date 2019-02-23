@@ -21,7 +21,7 @@
 	  box-sizing: border-box;
 	}
 	
-	/* For mobile phones: */
+	/* For mobile phones: This is to keep mobile first design q230219 */
 	[class*="col-"] {
 	  width: 100%;
 	  padding-top: 200px;
@@ -31,7 +31,7 @@
 	}
 	
 	@media only screen and (min-width: 768px) {
-	  /* For desktop: */
+	  /* For desktop: Only handling for desktop and mobile for now q230219 */
 	  .col-1 {width: 8.33%;}
 	  .col-2 {width: 16.66%;}
 	  .col-3 {width: 25%;}
@@ -65,3 +65,28 @@
 	  clear: both;
 	  display: table;
 	}
+
+/* these <a> tag definition I got it from https://www.w3schools.com/html/html_links.asp q230219 */
+a:link {
+  color: green; 
+  background-color: transparent; 
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
