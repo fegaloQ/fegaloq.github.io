@@ -91,7 +91,7 @@ td {
   border: 0;
 } 
 
-/* can be used to alternate the row color */
+/* below can be used to alternate the row color */
 tbody tr:nth-child(odd) {
   background-color:  0;
 }
