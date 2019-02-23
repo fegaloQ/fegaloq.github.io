@@ -73,6 +73,7 @@ table {
   border-collapse: inherit;
   width:90%;
   padding-left: 130px;
+  border-spacing: 10px;
 }
 
 thead th, tfoot th {
