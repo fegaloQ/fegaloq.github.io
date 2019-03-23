@@ -137,5 +137,5 @@ a:active {
  .dpimg {
     height: 200px;
     background: #aaa;
-    width: 90%; 
+    padding-top: 10px; 
   }
