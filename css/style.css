@@ -132,3 +132,9 @@ a:active {
   background-color: transparent;
   text-decoration: underline;
 }
+
+/* w3schools.com bootstrap course q230219 */	
+ .fakeimg {
+    height: 200px;
+    background: #aaa;
+  }
