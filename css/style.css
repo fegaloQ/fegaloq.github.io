@@ -134,7 +134,8 @@ a:active {
 }
 
 /* w3schools.com bootstrap course q230219 */	
- .fakeimg {
+ .dpimg {
     height: 200px;
     background: #aaa;
+    width: 50%; 
   }
